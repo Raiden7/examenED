@@ -17,8 +17,8 @@ public int ant;//antiguedad
 public double sue;//salario
 
 Trabajador() {
-n = "Ana";
-e = 30;
+n = "Ines";
+e = 31;
 cat = 0;
 ant = 0;
 }
